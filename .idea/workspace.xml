@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0d82f4c-11ac-4f46-b86a-8d430585bb5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cHHvO5DsJGrkSEj5U3MLD85iSZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+  </component>
+  <component name="RunManager">
+    <configuration name="siri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Siri" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Роман\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/siri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.siri" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0d82f4c-11ac-4f46-b86a-8d430585bb5f" name="Default Changelist" comment="" />
+      <created>1590178828844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590178828844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590179646070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590179646070" />
+    <state x="401" y="0" key="#siri" timestamp="1590179671462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="0" key="#siri/0.0.1366.728@0.0.1366.728" timestamp="1590179671462" />
+    <state width="1308" height="204" key="GridCell.Tab.0.bottom" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.0.center" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.0.left" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.0.right" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.1.bottom" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.1.center" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.1.left" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state width="1308" height="204" key="GridCell.Tab.1.right" timestamp="1590180562041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590180562041" />
+    <state x="247" y="5" width="916" height="713" key="SettingsEditor" timestamp="1590179638261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="247" y="5" width="916" height="713" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590179638261" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590180841565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590180841565" />
+    <state x="256" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590178953511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="256" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1590178953511" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1590178865314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590178865314" />
+  </component>
+</project>
